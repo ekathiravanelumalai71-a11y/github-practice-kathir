@@ -10,3 +10,5 @@ I want to become a full stack developer.
 
 ## Fun Fact
 I love solving logical problems.
+## Goal
+To become a successful software developer.
